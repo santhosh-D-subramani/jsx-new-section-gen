@@ -1,6 +1,7 @@
 {
   "name": "jsx-new-section-gen",
   "displayName": "jsx new section gen",
+  "publisher": "SanthoshSubramani",
   "description": "generates a folder and index.jsx , index.module.css inside it with given name",
   "version": "0.0.1",
   "engines": {
